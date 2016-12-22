@@ -12,7 +12,7 @@ I contributed to several open source projects, with both documentation and codin
 
 The t-shirt arrived this week. Check it out the t-shirt(and the awesome stickies)
 
-![Step 1](/images/hacktober_fest)
+![Step 1](/images/hacktober_fest.jpg)
 
 It's really an amazing project and I'm looking forward to the next Hacktober Fest
 
